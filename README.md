@@ -108,7 +108,7 @@ Painel principal com os indicadores, filtros e visualizações desenvolvidas par
 ## 📂 Estrutura do Repositório
 
 ```text
-📁 xbox-game-pass-dashboard
+📁 Sales_dashboard_challenge_in_Excel
 │
 ├── base.xlsx
 ├── dashboard_xbox.xlsx
@@ -160,8 +160,6 @@ Projeto desenvolvido como parte do bootcamp **TOTVS - Fundamentos de Engenharia 
 Agradecimentos à DIO e à TOTVS pela disponibilização do conteúdo, materiais de apoio e desafios práticos que possibilitaram a aplicação dos conceitos estudados.
 
 ---
-
-## 👨‍💻 Autor
 
 **Roberto Sulkovski**
 
