@@ -133,9 +133,9 @@ Painel principal com os indicadores, filtros e visualizações desenvolvidas par
 
 Adicione nesta seção uma captura de tela do dashboard final.
 
-```markdown
+markdown
 ![Dashboard Xbox](assets/dashboard.png)
-```
+
 
 ---
 
